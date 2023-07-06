@@ -1,0 +1,20 @@
+*{
+
+margin: 10px;
+
+
+color: rosybrown;
+/* text-align: center; */
+padding: 10px;
+
+
+}
+
+
+.test{
+
+color:blue; 
+
+cursor: url('image.jpg'),auto;
+
+}
